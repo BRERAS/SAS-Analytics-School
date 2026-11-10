@@ -1,1 +1,1 @@
-Here you will find the recording from the 2. day of the SAS Analytics Summer School
+Here you will find some demo data for the SAS Analytics School
