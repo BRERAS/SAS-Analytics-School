@@ -1,0 +1,46 @@
+list all tables in the library TUNDATA with the word insight in it
+
+add INSIGHTTOY_SALES
+
+change vendor type to category
+
+create a pie for order totals by continent
+
+add 1. value labels 2. percentage values
+
+create a bar chart order totals by product line on the right of the pie chart
+
+create a Month/Year variable on basis of Transaction Date
+
+	create a Month/Year date variable on basis of Transaction Date
+
+change the name to Month/Year
+
+dublicate the variable and 1. rename it to year and 2. set the format to year
+
+	dublicate Transaction date and 1. rename it to year and 2. change format to year
+
+
+create a timeseries plot Order Total by Month/Year at the bottom of the page
+
+move timeseries plot at the bottom of the page under both pie and bar chart
+
+move pie chart left of bar chart
+
+
+remove all measures from the list table
+
+	remove all roles from the list table
+
+calculate the Average of Order Total
+
+	undo
+
+set automatic Actions on all objects for page 1
+
+define a page link from the bar chart to page 2
+
+calculate profit
+
+calculate percentage different to previous period for Order Total
+
