@@ -16,9 +16,9 @@ create a Month/Year variable on basis of Transaction Date
 
 change the name to Month/Year
 
-dublicate the variable and 1. rename it to year and 2. set the format to year
+duplicate the variable and 1. rename it to year and 2. set the format to year
 
-	dublicate Transaction date and 1. rename it to year and 2. change format to year
+	duplicate Transaction date and 1. rename it to year and 2. change format to year
 
 
 create a timeseries plot Order Total by Month/Year at the bottom of the page
